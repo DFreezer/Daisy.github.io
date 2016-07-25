@@ -1,0 +1,47 @@
+@font-face {
+	font-family: 'PF Encore Sans Pro';
+	src: url('../css/fonts/PFEncoreSansPro-Light.eot');
+	src: url('../css/fonts/PFEncoreSansPro-Light.eot?#iefix') format('embedded-opentype'),
+		url('../css/fonts/PFEncoreSansPro-Light.woff2') format('woff2'),
+		url('../css/fonts/PFEncoreSansPro-Light.woff') format('woff'),
+		url('../css/fonts/PFEncoreSansPro-Light.ttf') format('truetype'),
+		url('../css/fonts/PFEncoreSansPro-Light.svg#PFEncoreSansPro-Light') format('svg');
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'PF Encore Sans Pro';
+	src: url('../css/fonts/PFEncoreSansPro-Medium.eot');
+	src: url('../css/fonts/PFEncoreSansPro-Medium.eot?#iefix') format('embedded-opentype'),
+		url('../css/fonts/PFEncoreSansPro-Medium.woff2') format('woff2'),
+		url('../css/fonts/PFEncoreSansPro-Medium.woff') format('woff'),
+		url('../css/fonts/PFEncoreSansPro-Medium.ttf') format('truetype'),
+		url('../css/fonts/PFEncoreSansPro-Medium.svg#PFEncoreSansPro-Medium') format('svg');
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'PF Encore Sans Pro';
+	src: url('../css/fonts/PFEncoreSansPro-Thin.eot');
+	src: url('../css/fonts/PFEncoreSansPro-Thin.eot?#iefix') format('embedded-opentype'),
+		url('../css/fonts/PFEncoreSansPro-Thin.woff2') format('woff2'),
+		url('../css/fonts/PFEncoreSansPro-Thin.woff') format('woff'),
+		url('../css/fonts/PFEncoreSansPro-Thin.ttf') format('truetype'),
+		url('../css/fonts/PFEncoreSansPro-Thin.svg#PFEncoreSansPro-Thin') format('svg');
+	font-weight: 100;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'PF Encore Sans Pro';
+	src: url('../css/fonts/PFEncoreSansPro-Bold.eot');
+	src: url('../css/fonts/PFEncoreSansPro-Bold.eot?#iefix') format('embedded-opentype'),
+		url('../css/fonts/PFEncoreSansPro-Bold.woff2') format('woff2'),
+		url('../css/fonts/PFEncoreSansPro-Bold.woff') format('woff'),
+		url('../css/fonts/PFEncoreSansPro-Bold.ttf') format('truetype'),
+		url('../css/fonts/PFEncoreSansPro-Bold.svg#PFEncoreSansPro-Bold') format('svg');
+	font-weight: 800;
+	font-style: normal;
+}
